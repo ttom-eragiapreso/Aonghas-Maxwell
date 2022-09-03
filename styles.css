@@ -1,0 +1,13 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container-all {
+  width: 100vW;
+  height: 100vh;
+  background: url(./img/broadscope-2.jpg);
+  background-size: cover;
+  background-position: center;
+}
