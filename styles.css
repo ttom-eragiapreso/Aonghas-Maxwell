@@ -4,10 +4,10 @@
   padding: 0;
 }
 
-.container-all {
-  width: 100vW;
+body {
+  width: 100vw;
   height: 100vh;
   background: url(./img/broadscope-2.jpg);
   background-size: cover;
-  background-position: center;
+  background-position-y: -730px, 0px;
 }
